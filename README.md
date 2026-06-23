@@ -10,5 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/vanshjuneja21/DSA/tree/master/0216-combination-sum-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
