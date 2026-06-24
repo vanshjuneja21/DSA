@@ -1,79 +1,58 @@
 class Solution {
 public:
-    static const long long MOD = 1000000007LL;
+    static const int MOD = 1000000007;
 
-    vector<vector<long long>> multiply(
-        const vector<vector<long long>>& A,
-        const vector<vector<long long>>& B
-    ) {
-        int sz = A.size();
-
-        vector<vector<long long>> C(sz, vector<long long>(sz, 0));
-
-        for (int i = 0; i < sz; i++) {
-            for (int k = 0; k < sz; k++) {
-                if (A[i][k] == 0) continue;
-
-                long long cur = A[i][k];
-
-                for (int j = 0; j < sz; j++) {
-                    if (B[k][j] == 0) continue;
-
-                    C[i][j] = (C[i][j] + cur * B[k][j]) % MOD;
+    vector<vector<long long>> multiplyMatrices(vector<vector<long long>>& matrixA, vector<vector<long long>>& matrixB) {
+        int size = matrixA.size();
+        vector<vector<long long>> result(size, vector<long long>(size, 0));
+        for (int row = 0; row < size; row++) {
+            for (int mid = 0; mid < size; mid++) {
+                if (matrixA[row][mid] == 0) 
+                    continue;
+                for (int col = 0; col < size; col++) {
+                    result[row][col] = (
+                        result[row][col] + matrixA[row][mid] * matrixB[mid][col]
+                    ) % MOD;
                 }
             }
         }
+        return result;
+    }
 
-        return C;
+    vector<vector<long long>> matrixPower(vector<vector<long long>> matrix, int power) {
+        int size = matrix.size();
+        vector<vector<long long>> result(size, vector<long long>(size, 0));
+        for (int row = 0; row < size; row++) {
+            result[row][row] = 1;
+        }
+        while (power > 0) {
+            if (power & 1) 
+                result = multiplyMatrices(result, matrix);
+            matrix = multiplyMatrices(matrix, matrix);
+            power >>= 1;
+        }
+        return result;
     }
 
     int zigZagArrays(int n, int l, int r) {
-        int m = r - l + 1;
-        int sz = 2 * m;
-
-        vector<vector<long long>> T(sz, vector<long long>(sz, 0));
-
-        for (int x = 0; x < m; x++) {
-
-            for (int y = x + 1; y < m; y++) {
-                T[x][m + y] = 1;
-            }
-
-            for (int y = 0; y < x; y++) {
-                T[m + x][y] = 1;
+        int valueCount = r - l + 1;
+        vector<long long> initialDp(valueCount);
+        for (int i = 0; i < valueCount; i++) {
+            initialDp[i] = i;
+        }
+        vector<vector<long long>> transitionMatrix(valueCount, vector<long long>(valueCount, 0));
+        for (int row = 1; row < valueCount; row++) {
+            for (int col = valueCount - row; col < valueCount; col++) {
+                transitionMatrix[row][col] = 1;
             }
         }
-
-        vector<vector<long long>> result(sz, vector<long long>(sz, 0));
-        for (int i = 0; i < sz; i++) {
-            result[i][i] = 1;
-        }
-
-        long long power = n - 1;
-
-        while (power > 0) {
-            if (power & 1) {
-                result = multiply(result, T);
-            }
-
-            T = multiply(T, T);
-            power >>= 1;
-        }
-
-        vector<long long> initial(sz, 1);
-
+        vector<vector<long long>> poweredTransition = matrixPower(transitionMatrix, n - 2);
         long long answer = 0;
-
-        for (int i = 0; i < sz; i++) {
-            long long rowSum = 0;
-
-            for (int j = 0; j < sz; j++) {
-                rowSum = (rowSum + result[i][j]) % MOD;
+        for (int row = 0; row < valueCount; row++) {
+            for (int col = 0; col < valueCount; col++) {
+                answer = (answer + poweredTransition[row][col] * initialDp[col]) % MOD;
             }
-
-            answer = (answer + rowSum) % MOD;
         }
-
-        return (int)answer;
+        return answer * 2 % MOD;
     }
 };
