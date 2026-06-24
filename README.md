@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vanshjuneja21/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/vanshjuneja21/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/vanshjuneja21/DSA/tree/master/0216-combination-sum-iii) |
+| [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vanshjuneja21/DSA/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
