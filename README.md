@@ -1,5 +1,18 @@
 # DSA
 A collection of LeetCode questions to ace the coding interview! 
+## 📊 LeetCode Statistics
+
+<!-- LEETCODE_STATS_START -->
+Loading...
+<!-- LEETCODE_STATS_END -->
+
+---
+
+## 📅 Recent Problems
+
+<!-- RECENT_PROBLEMS_START -->
+Loading...
+<!-- RECENT_PROBLEMS_END -->
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
