@@ -47,6 +47,7 @@ Total Solved: **185**
 | [0216-combination-sum-iii](https://github.com/vanshjuneja21/DSA/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vanshjuneja21/DSA/tree/master/0875-koko-eating-bananas) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -90,6 +91,7 @@ Total Solved: **185**
 | [0162-find-peak-element](https://github.com/vanshjuneja21/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vanshjuneja21/DSA/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
