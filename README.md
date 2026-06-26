@@ -31,12 +31,6 @@ Total Solved: **185**
 
 ---
 
-## 📅 Recent Problems
-
-<!-- RECENT_PROBLEMS_START -->
-Loading...
-<!-- RECENT_PROBLEMS_END -->
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
