@@ -1,7 +1,19 @@
-# DSA
-A collection of LeetCode questions to ace the coding interview! 
-## 📊 LeetCode Statistics
+<h1 align="center">🚀 Vansh Juneja's DSA Journey</h1>
 
+<p align="center">
+  <b>B.Tech Software Engineering @ DTU</b><br>
+  Solving Data Structures & Algorithms problems consistently using C++.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solutions-185-green?style=for-the-badge">
+</p>
+
+---
+
+## 📊 LeetCode Statistics
 <!-- LEETCODE_STATS_START -->
 
 Total Solved: **185**
