@@ -3,7 +3,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## 📊 LeetCode Statistics
 
 <!-- LEETCODE_STATS_START -->
-Loading...
+
+Total Solved: **185**
+
+🟢 Easy: **75**
+
+🟡 Medium: **90**
+
+🔴 Hard: **20**
+
 <!-- LEETCODE_STATS_END -->
 
 ---
