@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Solutions-185-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solutions-200-green?style=for-the-badge">
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vanshjuneja?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
