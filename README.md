@@ -51,6 +51,7 @@ Total Solved: **190**
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshjuneja21/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshjuneja21/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshjuneja21/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/vanshjuneja21/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -98,6 +99,7 @@ Total Solved: **190**
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshjuneja21/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshjuneja21/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshjuneja21/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/vanshjuneja21/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
