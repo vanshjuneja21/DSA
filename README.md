@@ -46,6 +46,7 @@ Total Solved: **194**
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshjuneja21/DSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/vanshjuneja21/DSA/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@ Total Solved: **194**
 | ------- |
 | [0037-sudoku-solver](https://github.com/vanshjuneja21/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/vanshjuneja21/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Total Solved: **194**
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshjuneja21/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshjuneja21/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
@@ -117,6 +120,7 @@ Total Solved: **194**
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
