@@ -156,4 +156,16 @@ Total Solved: **198**
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vanshjuneja21/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vanshjuneja21/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vanshjuneja21/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
