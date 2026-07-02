@@ -60,6 +60,7 @@ Total Solved: **206**
 | [1539-kth-missing-positive-number](https://github.com/vanshjuneja21/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshjuneja21/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/vanshjuneja21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -174,6 +175,7 @@ Total Solved: **206**
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vanshjuneja21/DSA/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/vanshjuneja21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Total Solved: **206**
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/vanshjuneja21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
