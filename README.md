@@ -48,6 +48,7 @@ Total Solved: **202**
 | [0216-combination-sum-iii](https://github.com/vanshjuneja21/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vanshjuneja21/DSA/tree/master/0875-koko-eating-bananas) |
@@ -72,6 +73,7 @@ Total Solved: **202**
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vanshjuneja21/DSA/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -167,6 +169,7 @@ Total Solved: **202**
 | [0155-min-stack](https://github.com/vanshjuneja21/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vanshjuneja21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshjuneja21/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -190,4 +193,8 @@ Total Solved: **202**
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
