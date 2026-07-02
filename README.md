@@ -49,6 +49,7 @@ Total Solved: **203**
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vanshjuneja21/DSA/tree/master/0875-koko-eating-bananas) |
@@ -170,6 +171,7 @@ Total Solved: **203**
 | [0225-implement-stack-using-queues](https://github.com/vanshjuneja21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshjuneja21/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -197,4 +199,5 @@ Total Solved: **203**
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
