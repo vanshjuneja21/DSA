@@ -79,6 +79,7 @@ Total Solved: **201**
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vanshjuneja21/DSA/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -162,6 +163,7 @@ Total Solved: **201**
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanshjuneja21/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vanshjuneja21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshjuneja21/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
