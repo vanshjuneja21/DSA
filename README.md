@@ -64,6 +64,7 @@ Total Solved: **209**
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -91,6 +92,7 @@ Total Solved: **209**
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vanshjuneja21/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vanshjuneja21/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -129,6 +131,7 @@ Total Solved: **209**
 | [1539-kth-missing-positive-number](https://github.com/vanshjuneja21/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +206,7 @@ Total Solved: **209**
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,8 +221,14 @@ Total Solved: **209**
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
