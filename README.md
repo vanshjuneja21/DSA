@@ -125,6 +125,7 @@ Total Solved: **226**
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshjuneja21/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshjuneja21/DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/vanshjuneja21/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -265,6 +266,7 @@ Total Solved: **226**
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshjuneja21/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/vanshjuneja21/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -298,7 +300,12 @@ Total Solved: **226**
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshjuneja21/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/vanshjuneja21/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vanshjuneja21/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
