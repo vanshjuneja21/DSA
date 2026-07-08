@@ -19,11 +19,11 @@
 ## 📊 LeetCode Statistics
 <!-- LEETCODE_STATS_START -->
 
-Total Solved: **225**
+Total Solved: **226**
 
 🟢 Easy: **87**
 
-🟡 Medium: **113**
+🟡 Medium: **114**
 
 🔴 Hard: **25**
 
