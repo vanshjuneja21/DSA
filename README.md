@@ -90,6 +90,7 @@ Total Solved: **227**
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vanshjuneja21/DSA/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshjuneja21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Total Solved: **227**
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vanshjuneja21/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshjuneja21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Total Solved: **227**
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vanshjuneja21/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshjuneja21/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshjuneja21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
