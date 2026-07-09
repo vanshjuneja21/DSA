@@ -19,9 +19,9 @@
 ## 📊 LeetCode Statistics
 <!-- LEETCODE_STATS_START -->
 
-Total Solved: **237**
+Total Solved: **238**
 
-🟢 Easy: **88**
+🟢 Easy: **89**
 
 🟡 Medium: **123**
 
