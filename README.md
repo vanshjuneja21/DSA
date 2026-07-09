@@ -56,6 +56,7 @@ Total Solved: **236**
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vanshjuneja21/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/vanshjuneja21/DSA/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshjuneja21/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshjuneja21/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/vanshjuneja21/DSA/tree/master/1288-remove-covered-intervals) |
@@ -201,6 +202,7 @@ Total Solved: **236**
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vanshjuneja21/DSA/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/vanshjuneja21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -244,6 +246,7 @@ Total Solved: **236**
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/vanshjuneja21/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -290,6 +293,7 @@ Total Solved: **236**
 | [0543-diameter-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vanshjuneja21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +340,7 @@ Total Solved: **236**
 | [0543-diameter-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vanshjuneja21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -348,4 +353,5 @@ Total Solved: **236**
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanshjuneja21/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vanshjuneja21/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vanshjuneja21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
