@@ -44,6 +44,7 @@ Total Solved: **229**
 | [0074-search-a-2d-matrix](https://github.com/vanshjuneja21/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshjuneja21/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshjuneja21/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshjuneja21/DSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/vanshjuneja21/DSA/tree/master/0216-combination-sum-iii) |
@@ -82,6 +83,7 @@ Total Solved: **229**
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshjuneja21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vanshjuneja21/DSA/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -152,6 +154,7 @@ Total Solved: **229**
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -268,6 +271,7 @@ Total Solved: **229**
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshjuneja21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -303,6 +307,7 @@ Total Solved: **229**
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshjuneja21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
