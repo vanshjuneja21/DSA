@@ -70,6 +70,7 @@ Total Solved: **239**
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshjuneja21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
@@ -105,6 +106,7 @@ Total Solved: **239**
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshjuneja21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshjuneja21/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vanshjuneja21/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vanshjuneja21/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -148,6 +150,7 @@ Total Solved: **239**
 | [1901-find-a-peak-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshjuneja21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -183,11 +186,13 @@ Total Solved: **239**
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vanshjuneja21/DSA/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshjuneja21/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/vanshjuneja21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshjuneja21/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +267,7 @@ Total Solved: **239**
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vanshjuneja21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshjuneja21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -350,6 +356,7 @@ Total Solved: **239**
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vanshjuneja21/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -359,4 +366,8 @@ Total Solved: **239**
 | [0450-delete-node-in-a-bst](https://github.com/vanshjuneja21/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vanshjuneja21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
