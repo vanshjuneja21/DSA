@@ -61,6 +61,7 @@ Total Solved: **241**
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshjuneja21/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/vanshjuneja21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshjuneja21/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/vanshjuneja21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshjuneja21/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vanshjuneja21/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshjuneja21/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -88,6 +89,7 @@ Total Solved: **241**
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/vanshjuneja21/DSA/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/vanshjuneja21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshjuneja21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -191,6 +193,7 @@ Total Solved: **241**
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/vanshjuneja21/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/vanshjuneja21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshjuneja21/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
