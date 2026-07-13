@@ -182,6 +182,7 @@ Total Solved: **242**
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/vanshjuneja21/DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
