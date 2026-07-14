@@ -238,6 +238,7 @@ Total Solved: **243**
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshjuneja21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vanshjuneja21/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vanshjuneja21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vanshjuneja21/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -246,6 +247,7 @@ Total Solved: **243**
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vanshjuneja21/DSA/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vanshjuneja21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vanshjuneja21/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -270,6 +272,7 @@ Total Solved: **243**
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vanshjuneja21/DSA/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vanshjuneja21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vanshjuneja21/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -330,6 +333,7 @@ Total Solved: **243**
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vanshjuneja21/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vanshjuneja21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vanshjuneja21/DSA/tree/master/2685-count-the-number-of-complete-components) |
