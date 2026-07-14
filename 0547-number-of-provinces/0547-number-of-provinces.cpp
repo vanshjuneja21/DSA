@@ -39,7 +39,7 @@ public:
         for(int i=0;i<V;i++){
             if(!vis[i]){
                 cnt++;
-                bfs(i,adjLs,vis);
+                dfs(i,adjLs,vis);
             }
         }
         return cnt;
