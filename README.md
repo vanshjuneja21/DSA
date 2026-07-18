@@ -57,6 +57,7 @@ Total Solved: **250**
 | [0704-binary-search](https://github.com/vanshjuneja21/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vanshjuneja21/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/vanshjuneja21/DSA/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/vanshjuneja21/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vanshjuneja21/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshjuneja21/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshjuneja21/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -131,6 +132,7 @@ Total Solved: **250**
 | [0074-search-a-2d-matrix](https://github.com/vanshjuneja21/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vanshjuneja21/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshjuneja21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/vanshjuneja21/DSA/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshjuneja21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -253,6 +255,7 @@ Total Solved: **250**
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vanshjuneja21/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vanshjuneja21/DSA/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vanshjuneja21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vanshjuneja21/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
