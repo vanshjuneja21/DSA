@@ -73,6 +73,7 @@ Total Solved: **255**
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshjuneja21/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshjuneja21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vanshjuneja21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshjuneja21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
@@ -106,6 +107,7 @@ Total Solved: **255**
 | [0020-valid-parentheses](https://github.com/vanshjuneja21/DSA/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshjuneja21/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshjuneja21/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vanshjuneja21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshjuneja21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -160,6 +162,7 @@ Total Solved: **255**
 | [1901-find-a-peak-element-ii](https://github.com/vanshjuneja21/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshjuneja21/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshjuneja21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vanshjuneja21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshjuneja21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshjuneja21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vanshjuneja21/DSA/tree/master/3620-network-recovery-pathways) |
@@ -182,6 +185,7 @@ Total Solved: **255**
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/vanshjuneja21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshjuneja21/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
